@@ -1,0 +1,43 @@
+PADRÕES UTILIZADOS NO PROJETO [Java] [Ruby] [Outros Assuntos de Teste]
+Para melhor organizar e facilitar, é importante utilizar os seguintes padrões:
+
+-----------------------------------------------------------------------
+1-As pastas padrões nas máquinas locais
+Raiz:  C:\\100DaysOfCode2Java ou C:\\100DaysOfCode2Ruby
+Outras Pastas:
+C:\\100DaysOfCode2Java\\Drivers ou C:\\100DaysOfCode2Ruby\\Drivers
+C:\\100DaysOfCode2Java\\Evidencias ou C:\\100DaysOfCode2Ruby\\Evidencias
+C:\\100DaysOfCode2Java\\Reports ou C:\\100DaysOfCode2Ruby\\Reports
+C:\\100DaysOfCode2Java\\Dados ou C:\\100DaysOfCode2Ruby\\Dados
+Obs: Ao criar novas pastas, definir o padrão.
+-----------------------------------------------------------------------
+2-Project no Eclipse [*Ver Ruby*]
+Nome: 100DaysOfCode2Java
+-----------------------------------------------------------------------
+3-Package no Eclipse [*Ver Ruby*]
+Nome: com.java.(nome)
+Exs: com.java.pdf
+     com.java.excel
+-----------------------------------------------------------------------
+4-Classes no Eclipse [*Ver Ruby*]
+Nome que indique o que a classe realiza
+-----------------------------------------------------------------------
+5-O cabeçalho do arquivo/classe [*Ver Ruby*]
+//Java_DayXXX: Nome do Arquivo
+//Date: (Data de Postagem do Arquivo) - By (Autor do Arquivo)
+//Versões utilizadas dos drivers
+Ex:
+//Java_Day016: Gerando relatório PDF com iText
+//Date: 16/02/2018 - By Carlos Peçanha
+//Eclipse: Mars 2, Apache Tomcat 8.0, Selenium Server Standalone 3.6.0, Itext 5.1.0
+-----------------------------------------------------------------------
+6-Os arquivos publicados devem ter o nome: 
+Para assuntos de Java: Java_DayXXX: Nome do Arquivo
+Para assuntos de Ruby: Ruby_DayXXX: Nome do Arquivo
+Para outros assuntos : Test_DayXXX: Nome do Arquivo
+-----------------------------------------------------------------------
+Ex.: Java_Day020: Gerando relatório PDF com iText
+Ex.: Ruby_Day021: Montando seu ambiente no Windows
+Ex.: Test_Day022: O desafio da Automação de teste para o iniciante
+-----------------------------------------------------------------------
+Faltou algo? Sugere aí!
